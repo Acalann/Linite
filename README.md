@@ -1,2 +1,2 @@
-# linite
+# Linite
 A linux replacement for Ninite
